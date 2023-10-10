@@ -3,7 +3,8 @@
 California Housing clustering
 
 - Some Data cleaning is performed: outliers and null values removed
-- Some Data is generated, non-linear transformations to search for more
+- A brief EDA is performed, geopandas is used to plot over a map and crs is used to project the data
+- Some Data is generated, distance to coast is calculated with multiprocessing to ease the computing time
 - A Pearson correlation is performed to review the linear relationship between variables.
 - Scaling is performed, a brief comparison is performed to select a proper scaling method
 - Kmeans models are trained and Inertia and silhouette scores are compared to select hyperparameters
