@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin/>
+        <pubdate>19940802</pubdate>
+        <title>California Coastline, 1994</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace/>
+          <publish>California. Department of Fish and Game. Marine Resources Region</publish>
+        </pubinfo>
+        <pubinfo>
+          <pubplace/>
+          <publish>California. Department of Fish and Game. Marine Resources Region</publish>
+        </pubinfo>
+        <onlink>http://purl.stanford.edu/hj484bt5758</onlink>
+        <lworkcit>
+          <citeinfo>
+            <pubdate>20000101</pubdate>
+            <title>California Department of Fish and Wildlife GIS Maps and Data</title>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This polyline shapefile is a rebuild of the original digitized data with greatly reduced tolerances (see Supplemental Information under Resource Details). The purpose of this rebuild is to reduce the number of verticies that are dropped out during an ARCINFO "CLEAN" process on a previous version of this coverage. This data set closely resembles the original data, and as such, users will probably want to generalize this coverage to decrease unwanted verticies and arcs. California shoreline from the Oregon border to the Mexico border including Humboldt, Arcata, San Francisco, San Pablo, Suisun, Honker, and San Diego Bays and includes offshore rocks. This shoreline represents the mean high tide line along the coast and bays as shown on the United States Geological Survey 7.5' series quadrangles. </abstract>
+      <purpose>The California Department of Fish and Wildlife Marine Region GIS Lab is a state-of-the-art GIS and Remote Sensing facility which specializes in coastal and marine applications. The staffs' expertise includes processing spatial data from a wide variety of Remote Sensing platforms, raster-based spatial analysis, data management, and map production. Project priorities for the Lab are determined by the Marine Region's focus on the California Marine Life Management Act and the California Marine Life Protection Act.</purpose>
+      <supplinf>Converted to California Teale Albers NAD83 by the California Department of Fish and Game --BEGIN ORIGINAL METADATA - THIS INFORMATION MAY NOT BE CURRENT-- Name: California coastline FS Name: COASTN27 DATE: 2 Aug 1994 DESCRIPTION: Note: This coverage is a rebuild of the original digitized data with greatly reduced tolerances (see below). The purpose of this rebuild is to reduce the number of verticies that are dropped out during an ARCINFO "CLEAN" process on a previous version of this coverage. This data set closely resembles the original data, and as such, users will probably want to generalize this coverage to decrease unwanted verticies and arcs. California shoreline from the Oregon border to the Mexico border including Humboldt, Arcata, San Francisco, San Pablo, Suisun, Honker, and San Diego Bays and includes offshore rocks. This shoreline represents the mean high tide line along the coast and bays as shown on the US Geological Survey 7.5' series quadrangles. Vital STATISTICS: Datum: NAD 27 Projection: Albers Units: Meters 1st Std. Parallel: 34 00 00 2nd Std. Parallel: 40 30 00 Longitude of Origin: -120 00 00 Latitude of Origin: 00 00 00 False Easting (X shift): 0 False Northing (Y shift): -4,000,000 Source: US Geological Survey (Various years) Source Media: mylar, paper Source Projection: Lambert Source Units: meters, feet Source Scale: 1:24,000 Capture Method: Manual digitization Conversion Software: ARC/INFO rev. 5.0.1, 6.1.2 Data Structure: Vector ARC/INFO Coverage type: line, point ARC/INFO tolerances: Fuzzy: .001 Weed: .02 - .006 Number of features: 28786 arcs, 12150 points Layer Size: 66.844 MB Date updated: July 1994 DATA DICTIONARY: There are is only standard attribute information for the PAT and AAT files. DATA QUALITY ASSESSMENT: The following are subjective comments regarding this data. This coverage has been compiled from individually digitized 7.5' USGS quadrangles controlled by NGS triangulation stations and individual quad corners. RMS errors averaged under 5 meters per quad. Accuracy of this coverage is very good with respects to the original source material. The shoreline between the Mare Island and Cuttings Wharf quads did not match. The Cuttings Warf quad was completed in 1949 and the Mare Island quad was completed in 1959. The differences were assumed to have resulted from the the different mapping dates. Consequently, the shoreline of the quad with the later date, the Mare Island quad, was held and the shoreline of the Cuttings Wharf quad was manually adjusted to fit. Not all of the quadrangles were current, since we could not afford new mylar sets. You will find some differences between our shoreline and the most recent USGS quadrangles. This shoreline will be updated on an ongoing basis. The marine terminal facility known as Pacific Wharf situated on the east side of San Pablo Bay alongside the main channel of the bay and west of the Unocal's Wharf at Oleum (Mare Island Quad), was positioned from registered and rectified air photos. The method used to position the facility was as follows: 1. The scanned air photo was registered with the coastline coverage then rectified; 2. The facility was then digitized in arcedit with a mouse from the registered and rectified scanned air photo. DATA CONTACT: Contact Name: Ted Fukushima Contact Agency: State Lands Commission Contact's Phone: 916-322-7813 --END ORIGINAL METADATA--</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>19940802</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-124.518243</westbc>
+        <eastbc>-116.707345</eastbc>
+        <northbc>42.069890</northbc>
+        <southbc>32.500161</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>lcsh</themekt>
+        <themekey>Coasts</themekey>
+        <themekey>Shorelines</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>oceans</themekey>
+        <themekey>boundaries</themekey>
+      </theme>
+      <place>
+        <placekt>geonames</placekt>
+        <placekey>California</placekey>
+        <placekey>Pacific Ocean</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>1994</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>No restrictions on access or use. Please cite the authors when possible.</accconst>
+    <useconst>None</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>California Department of Fish and Wildlife Marine Region GIS Lab</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>20 Lower Ragsdale Dr., Ste. 100</address>
+          <city>Monterey</city>
+          <state>CA</state>
+          <postal>93940</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>831-649-7143</cntvoice>
+        <cntemail>mr_gis@wildlife.ca.gov</cntemail>
+        <cntinst>Email is preferred contact method.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>California Department of Fish and Wildlife, (1994). California Coastline, 1994. Marine Region GIS Lab. Available at: http://purl.stanford.edu/hj484bt5758.</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.2.2.3552</native>
+  </idinfo>
+  <dataqual>
+    <logic>DATA QUALITY ASSESSMENT: The following are subjective comments regarding this data. This coverage has been compiled from individually digitized 7.5' USGS quadrangles controlled by NGS triangulation stations and individual quad corners. RMS errors averaged under 5 meters per quad. Accuracy of this coverage is very good with respects to the original source material. The shoreline between the Mare Island and Cuttings Wharf quads did not match. The Cuttings Warf quad was completed in 1949 and the Mare Island quad was completed in 1959. The differences were assumed to have resulted from the the different mapping dates. Consequently, the shoreline of the quad with the later date, the Mare Island quad, was held and the shoreline of the Cuttings Wharf quad was manually adjusted to fit. Not all of the quadrangles were current, since we could not afford new mylar sets. You will find some differences between our shoreline and the most recent USGS quadrangles. This shoreline will be updated on an ongoing basis. The marine terminal facility known as Pacific Wharf situated on the east side of San Pablo Bay alongside the main channel of the bay and west of the Unocal's Wharf at Oleum (Mare Island Quad), was positioned from registered and rectified air photos. The method used to position the facility was as follows: 1. The scanned air photo was registered with the coastline coverage then rectified; 2. The facility was then digitized in arcedit with a mouse from the registered and rectified scanned air photo. DATA CONTACT: Contact Name: Ted Fukushima Contact Agency: State Lands Commission Contact's Phone: 916-322-7813</logic>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>28807</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>coastn83</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FNODE_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TNODE_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LPOLY_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RPOLY_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LENGTH</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COASTN27_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COASTN27_I</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Stanford Geospatial Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>physical</addrtype>
+          <address>Branner Earth Sciences Library</address>
+          <address>Mitchell Building, 2nd Floor</address>
+          <address>397 Panama Mall</address>
+          <city>Stanford</city>
+          <state>California</state>
+          <postal>94305</postal>
+        </cntaddr>
+        <cntvoice>650-723-2746</cntvoice>
+        <cntemail>brannerlibrary@stanford.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>See access and use constraints information.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20150713</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>California Department of Fish and Wildlife Marine Region GIS</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>physical</addrtype>
+          <address>20 Lower Ragsdale Dr., Ste. 100</address>
+          <city>Monterey</city>
+          <state>CA</state>
+          <postal>93940</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>831-649-7143</cntvoice>
+        <cntemail>mr_gis@wildlife.ca.gov</cntemail>
+        <cntinst>Email is preferred contact method.</cntinst>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>
